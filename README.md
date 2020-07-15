@@ -1,2 +1,2 @@
 # Web-Scraping
-Repository contains python code for web-scraping using BeautifulSoup
+Repository contains codes for a bunch of mini projects for web-scraping using BeautifulSoup. 
